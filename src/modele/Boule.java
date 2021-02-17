@@ -14,7 +14,7 @@ public class Boule extends Objet {
 	/**
 	 * Constructeur
 	 */
-	public Boule() {
+	public BouleBoule() {
 	}
 	
 	/**
